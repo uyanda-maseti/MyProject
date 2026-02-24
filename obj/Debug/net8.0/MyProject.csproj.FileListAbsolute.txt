@@ -1,0 +1,14 @@
+/home/uyanda/programming/MyProject/obj/Debug/net8.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/uyanda/programming/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfoInputs.cache
+/home/uyanda/programming/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfo.cs
+/home/uyanda/programming/MyProject/obj/Debug/net8.0/MyProject.csproj.CoreCompileInputs.cache
+/home/uyanda/programming/MyProject/bin/Debug/net8.0/MyProject
+/home/uyanda/programming/MyProject/bin/Debug/net8.0/MyProject.deps.json
+/home/uyanda/programming/MyProject/bin/Debug/net8.0/MyProject.runtimeconfig.json
+/home/uyanda/programming/MyProject/bin/Debug/net8.0/MyProject.dll
+/home/uyanda/programming/MyProject/bin/Debug/net8.0/MyProject.pdb
+/home/uyanda/programming/MyProject/obj/Debug/net8.0/MyProject.dll
+/home/uyanda/programming/MyProject/obj/Debug/net8.0/refint/MyProject.dll
+/home/uyanda/programming/MyProject/obj/Debug/net8.0/MyProject.pdb
+/home/uyanda/programming/MyProject/obj/Debug/net8.0/MyProject.genruntimeconfig.cache
+/home/uyanda/programming/MyProject/obj/Debug/net8.0/ref/MyProject.dll
