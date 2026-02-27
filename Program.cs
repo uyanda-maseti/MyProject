@@ -8,8 +8,12 @@ namespace HelloWorld
         
         static void Main(string[] args)
         {
+            string name = "Uyanda";
+            int age = 25;
 
-            Console.WriteLine("Hello World this is Uyanda Maseti");
+            Console.WriteLine(name);
+            Console.WriteLine(age);
+            
         } 
     }
 }
