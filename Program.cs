@@ -8,11 +8,16 @@ namespace HelloWorld
         
         static void Main(string[] args)
         {
-            string name = "Uyanda";
-            int age = 25;
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine()!;
+            
+            Console.Write("Enter your age: ");
+            string ageInput = Console.ReadLine()!;
+            int age = Convert.ToInt32(ageInput);
 
-            Console.WriteLine(name);
-            Console.WriteLine(age);
+
+            Console.WriteLine("You are " + name + " and your age is " + age);
+            
             
         } 
     }
